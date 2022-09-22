@@ -5,7 +5,7 @@
       <p><b>Ph.D.</b></p>
       <p><b>School of Data Science</b></p>
       <p><b>City University of Hong Kong (CityU)</b></p>
-      <p><b>Email: GAOJ0015@e.ntu.edu.sg</b></p>
+      <p><b>Email: jt.g@my.cityu.edu.hk</b></p>
     </td>
     <td width="25%">
       <img src="/gaojingtong.png" width="100%">
