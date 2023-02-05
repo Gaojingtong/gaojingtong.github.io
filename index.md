@@ -21,3 +21,6 @@ Jingtong Gao is a Ph.D. student of Data Science at City University of Hong Kong 
 
 ## Research Interests/Areas
 Recommender System, Smart City, Deep Reinforcement Learning, Machine learning, Computer vision, Robotics.
+
+## Publications
+
