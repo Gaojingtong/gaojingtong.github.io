@@ -22,13 +22,15 @@ Jingtong Gao is a Ph.D. student of Data Science at City University of Hong Kong 
 ## Research Interests/Areas
 Recommender System, Smart City, Deep Reinforcement Learning, Machine learning, Computer vision, Robotics.
 
-## Tutorials
+## Publications and Tutorials
+
+### Tutorials
 
 [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
 WWW'23, Companion Proceedings of the Web Conference 2023
 
-## Publications
+### Publications
 
 Multi-Task Recommendations with Reinforcement Learning\
 Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao, Jingtong Gao, Shuchang Liu, Dayou Chen, Tonghao He, Dong Zheng, Peng Jiang, Kun Gai\
