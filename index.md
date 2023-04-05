@@ -32,6 +32,14 @@ WWW'23, Companion Proceedings of the Web Conference 2023
 
 ### Publications
 
+Instance Transfer for Cross-Domain Recommendations\
+Jingtong Gao, Xiangyu Zhao, Bo Chen, Fan Yan, Huifeng Guo and Ruiming Tang\
+SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
+Linear Attention Mechanism for Long-term Sequential Recommender Systems\
+Langming Liu, Xiangyu Zhao, Chi Zhang, Jingtong Gao, Wanyu Wang, Wenqi Fan, Yiqi Wang, Ming He, Zitao Liu and Qing Li\
+SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
 Multi-Task Recommendations with Reinforcement Learning\
 Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao, Jingtong Gao, Shuchang Liu, Dayou Chen, Tonghao He, Dong Zheng, Peng Jiang, Kun Gai\
 WWW'23, Proceedings of the ACM Web Conference 2023
