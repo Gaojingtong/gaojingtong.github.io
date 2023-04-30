@@ -38,6 +38,8 @@ IJCAI'2023, Proceedings of the 32st International Joint Conference on Artificial
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
 WWW'23, Companion Proceedings of the Web Conference 2023
 
+***
+
 ### Publications
 
 AutoTransfer: Instance Transfer for Cross-Domain Recommendations\
