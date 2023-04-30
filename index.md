@@ -17,7 +17,7 @@
 
 ## Brief Biography
 
-Jingtong Gao is a Ph.D. student of Data Science at City University of Hong Kong (CityU) under the advisory of Prof. Xiangyu Zhao. Prior to CityU, he completed his MSc under the advisory of Prof. Wang Dan Wei at NTU and his B.Eng. under the advisory of Prof. Shaopeng Dong at BUAA.
+Jingtong Gao is a Ph.D. student of Data Science at City University of Hong Kong (CityU) under the advisory of Prof. Xiangyu Zhao. Prior to CityU, he completed his MSc under the advisory of Prof. Wang Dan Wei at NTU in 2022 and his B.Eng. under the advisory of Prof. Shaopeng Dong at BUAA in 2021.
 
 ## Research Interests/Areas
 Recommender System, Smart City, Deep Reinforcement Learning, Machine learning, Computer vision, Robotics.
