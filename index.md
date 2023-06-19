@@ -28,11 +28,15 @@ Recommender System, Smart City, Deep Reinforcement Learning, Machine learning, C
 
 Joint Modeling in Recommendations: Foundations and Frontiers\
 Xiangyu Zhao, Yichao Wang, Bo Chen, Pengyue Jia, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang\
-IJCAI'2023, Proceedings of the 32st International Joint Conference on Artificial Intelligence
+IJCAI'23, Proceedings of the 32st International Joint Conference on Artificial Intelligence
 
 [Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingtong Gao, Qidong Liu, Lin Wang\
-IJCAI'2023, Proceedings of the 32st International Joint Conference on Artificial Intelligence
+IJCAI'23, Proceedings of the 32st International Joint Conference on Artificial Intelligence
+
+[Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)\
+Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingtong Gao, Qidong Liu, Lin Wang\
+KDD’23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
