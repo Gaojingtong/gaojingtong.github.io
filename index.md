@@ -46,13 +46,15 @@ WWW'23, Companion Proceedings of the Web Conference 2023
 
 ### Publications
 
-AutoTransfer: Instance Transfer for Cross-Domain Recommendations\
+[AutoTransfer: Instance Transfer for Cross-Domain Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591701)\
 Jingtong Gao, Xiangyu Zhao, Bo Chen, Fan Yan, Huifeng Guo and Ruiming Tang\
-SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
+SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
+[[CITE](bibtex/gao2023autotransfer.html)]
 
-Linear Attention Mechanism for Long-term Sequential Recommender Systems\
-Langming Liu, Xiangyu Zhao, Chi Zhang, Jingtong Gao, Wanyu Wang, Wenqi Fan, Yiqi Wang, Ming He, Zitao Liu and Qing Li\
-SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
+[LinRec: Linear Attention Mechanism for Long-term Sequential Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3539618.3591717)\
+Langming Liu, Liu Cai, Chi Zhang, Xiangyu Zhao, Jingtong Gao, Wanyu Wang, Yifu Lv, Wenqi Fan, Yiqi Wang, Ming He, Zitao Liu, Qing Li\
+SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
+[[CITE](bibtex/liu2023linrec.html)]
 
 Multi-Task Recommendations with Reinforcement Learning\
 Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao, Jingtong Gao, Shuchang Liu, Dayou Chen, Tonghao He, Dong Zheng, Peng Jiang, Kun Gai\
