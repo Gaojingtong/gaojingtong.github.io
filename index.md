@@ -46,7 +46,7 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 ### Publications
 
 [AutoTransfer: Instance Transfer for Cross-Domain Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591701)\
-Jingtong Gao, Xiangyu Zhao, Bo Chen, Fan Yan, Huifeng Guo and Ruiming Tang\
+Jingtong Gao, Xiangyu Zhao, Bo Chen, Fan Yan, Huifeng Guo, Ruiming Tang\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE](bibtex/gao2023autotransfer.html)]
 
@@ -61,6 +61,6 @@ WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE](bibtex/liu2023multi.html)]
 
 [DRN-GAN: an integrated deep learning-based health degradation assessment model for naval propulsion system](https://www.emerald.com/insight/content/doi/10.1108/EC-10-2021-0624/full/html)\
-Gao, Jingtong and Dong, Shaopeng and Cui, Jin and Yuan, Mei and Zhao, Juanru\
+Gao, Jingtong and Dong, Shaopeng and Cui, Jin and Yuan, Mei, Zhao, Juanru\
 Engineering Computations\
 [[CITE](bibtex/gao2022drn.html)]
