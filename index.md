@@ -31,16 +31,15 @@ Xiangyu Zhao, Yichao Wang, Bo Chen, Pengyue Jia, Yuhao Wang, Jingtong Gao, Huife
 IJCAI'23, Proceedings of the 32st International Joint Conference on Artificial Intelligence
 
 [Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)\
-Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingtong Gao, Qidong Liu, Lin Wang\
-IJCAI'23, Proceedings of the 32st International Joint Conference on Artificial Intelligence
-
-[Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)\
-Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingtong Gao, Qidong Liu, Lin Wang\
-KDD’23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+Wenqi Fan, Xiangyu Zhao, Lin Wang, Xiao Chen, Jingtong Gao, Qidong Liu, Shijie Wang\
+IJCAI'23, Proceedings of the 32nd International Joint Conference on Artificial Intelligence\
+KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
+[[CITE](bibtex/fan2023trustworthy.html)]
 
 [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
-WWW'23, Companion Proceedings of the Web Conference 2023
+WWW'23, Companion Proceedings of the Web Conference 2023\
+[[CITE](bibtex/fan2022comprehensive.html)]
 
 ***
 
@@ -56,9 +55,10 @@ Langming Liu, Liu Cai, Chi Zhang, Xiangyu Zhao, Jingtong Gao, Wanyu Wang, Yifu L
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE](bibtex/liu2023linrec.html)]
 
-Multi-Task Recommendations with Reinforcement Learning\
+[Multi-Task Recommendations with Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3543507.3583467)\
 Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao, Jingtong Gao, Shuchang Liu, Dayou Chen, Tonghao He, Dong Zheng, Peng Jiang, Kun Gai\
-WWW'23, Proceedings of the ACM Web Conference 2023
+WWW'23, Proceedings of the ACM Web Conference 2023\
+[[CITE](bibtex/liu2023multi.html)]
 
 [DRN-GAN: an integrated deep learning-based health degradation assessment model for naval propulsion system](https://www.emerald.com/insight/content/doi/10.1108/EC-10-2021-0624/full/html)\
 Gao, Jingtong and Dong, Shaopeng and Cui, Jin and Yuan, Mei and Zhao, Juanru\
