@@ -27,7 +27,8 @@ Recommender System, Smart City, Deep Reinforcement Learning, Machine learning, C
 ### 2023
 
 - IJCAI'23 Travel Award
-- Research Tuition Scholarship (RTS-CityU) and Outstanding Academic Performance Award (OAPA-CityU) 
+- Research Tuition Scholarship (RTS-CityU) 
+- Outstanding Academic Performance Award (OAPA-CityU) 
 
 ## Publications and Tutorials
 
