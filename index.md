@@ -52,6 +52,9 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 ***
 
 ### Publications
+SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations
+Jingtong Gao, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin
+Transactions on lnformation Systems
 
 [AutoTransfer: Instance Transfer for Cross-Domain Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591701)\
 Jingtong Gao, Xiangyu Zhao, Bo Chen, Fan Yan, Huifeng Guo, Ruiming Tang\
