@@ -59,7 +59,7 @@ https://arxiv.org/abs/2309.02061
 
 [SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations](https://dl.acm.org/doi/pdf/10.1145/3637871)\
 Jingtong Gao, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
-Transactions on lnformation Systems
+Transactions on lnformation Systems\
 [[CITE](bibtex/gao2024smlp4rec.html)]
 
 [AutoTransfer: Instance Transfer for Cross-Domain Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591701)\
