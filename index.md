@@ -57,9 +57,10 @@ Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation\
 Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
 https://arxiv.org/abs/2309.02061
 
-SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations\
+[SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations](https://dl.acm.org/doi/pdf/10.1145/3637871)\
 Jingtong Gao, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
 Transactions on lnformation Systems
+[[CITE](bibtex/gao2024smlp4rec.html)]
 
 [AutoTransfer: Instance Transfer for Cross-Domain Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591701)\
 Jingtong Gao, Xiangyu Zhao, Bo Chen, Fan Yan, Huifeng Guo, Ruiming Tang\
