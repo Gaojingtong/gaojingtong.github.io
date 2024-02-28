@@ -53,12 +53,12 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 
 ### Publications
 
-Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation
-Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang
+Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation\
+Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
 https://arxiv.org/abs/2309.02061
 
-SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations
-Jingtong Gao, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin
+SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations\
+Jingtong Gao, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
 Transactions on lnformation Systems
 
 [AutoTransfer: Instance Transfer for Cross-Domain Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591701)\
