@@ -31,9 +31,9 @@ Recommender System, Smart City, Deep Reinforcement Learning, Machine learning, C
 - Outstanding Academic Performance Award (OAPA-CityU)
 
 ## News
-- 2024.03 I work as a PC member of CIKM 2024.
-- 2024.02 I work as a reviewer of KDD 2024.
-- 2024.02 I work as a reviewer of TKDD.
+- **2024.03:** I work as a PC member of CIKM 2024.
+- **2024.02:** I work as a reviewer of KDD 2024.
+- **2024.02:** I work as a reviewer of TKDD.
 
 ## Publications and Tutorials
 
