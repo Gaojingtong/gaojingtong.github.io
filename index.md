@@ -31,7 +31,7 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 - Outstanding Academic Performance Award (OAPA-CityU)
 
 ## News
-- **2024.07:** Our multiscenario recommendation framework [HierRec](https://arxiv.org/abs/2309.02061) has been deployed in related services of Huawei. Welcome to cite it.
+- **2024.07:** Our multiscenario recommendation framework [HierRec](https://arxiv.org/abs/2309.02061) has been accepted by CIKM2024 and deployed in related services of Huawei. Welcome to cite it.
 - **2024.03:** I work as a PC member of CIKM 2024.
 - **2024.02:** I work as a reviewer of KDD 2024.
 - **2024.02:** I work as a reviewer of TKDD.
@@ -61,7 +61,8 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 
 Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation\
 Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
-https://arxiv.org/abs/2309.02061
+CIKM'24, Proceedings of the 33nd ACM International Conference on Information & Knowledge Management\
+[[LINK](https://arxiv.org/abs/2309.02061)]
 
 [SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations](https://dl.acm.org/doi/pdf/10.1145/3637871)\
 Jingtong Gao, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
