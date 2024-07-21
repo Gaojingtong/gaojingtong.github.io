@@ -25,7 +25,7 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 ## Awards and Prizes
 
 ### 2024
-- Achieved second place overall in the in the "KDD CUP 2024 Multi-Task Online Shopping Challenge for LLMs" competition hosted by Amazon. (Third place in three tracks and second place in two tracks)
+- Second place overall in the in the "KDD CUP 2024 Multi-Task Online Shopping Challenge for LLMs" competition hosted by Amazon. (Third place in three tracks and second place in two tracks)
 
 ### 2023
 - IJCAI'23 Travel Award
