@@ -25,7 +25,7 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 ## Awards and Prizes
 
 ### 2024
-- Second place overall in the in the "[KDD CUP 2024 Multi-Task Online Shopping Challenge for LLMs](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Group AML666) 
+- Second place overall in the in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Group AML666) 
 
 ### 2023
 - IJCAI'23 Travel Award
@@ -33,7 +33,7 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 - Outstanding Academic Performance Award (OAPA-CityU)
 
 ## News
-- **2024.07:** We achieved second place overall in the in the "KDD CUP 2024 Multi-Task Online Shopping Challenge for LLMs" competition hosted by Amazon. (Third place in three tracks and second place in two tracks)
+- **2024.07:** We achieved second place overall in the in the "KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)" competition hosted by Amazon. (Third place in three tracks and second place in two tracks)
 - **2024.07:** Our multiscenario recommendation framework [HierRec](https://arxiv.org/abs/2309.02061) has been accepted by CIKM2024 and deployed in related services of Huawei. Welcome to cite it.
 - **2024.03:** I work as a PC member of CIKM 2024.
 - **2024.02:** I work as a reviewer of KDD 2024.
