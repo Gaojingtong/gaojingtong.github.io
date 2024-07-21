@@ -25,7 +25,7 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 ## Awards and Prizes
 
 ### 2024
-- Second place overall in the in the "[KDD CUP 2024 Multi-Task Online Shopping Challenge for LLMs](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (AML666 Group) 
+- Second place overall in the in the "[KDD CUP 2024 Multi-Task Online Shopping Challenge for LLMs](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Group AML666) 
 
 ### 2023
 - IJCAI'23 Travel Award
