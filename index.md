@@ -33,6 +33,7 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 - Outstanding Academic Performance Award (OAPA-CityU)
 
 ## News
+- **2024.07:** Our LLM-based reranking framework "LLM-enhanced Reranking in Recommender Systems" is available on arxiv, welcome to cite it.
 - **2024.07:** We achieved second place overall in the "KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)" competition hosted by Amazon. (Third place in three tracks and second place in two tracks)
 - **2024.07:** Our multiscenario recommendation framework [HierRec](https://arxiv.org/abs/2309.02061) has been accepted by CIKM2024 and deployed in related services of Huawei. Welcome to cite it.
 - **2024.03:** I work as a PC member of CIKM 2024.
@@ -61,6 +62,11 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 ***
 
 ### Publications
+
+LLM-enhanced Reranking in Recommender Systems\
+Jingtong Gao, Bo Chen, Xiangyu Zhao, Weiwen Liu, Xiangyang Li, Yichao Wang, Zijian Zhang, Wanyu Wang, Yuyang Ye, Shanru Lin, Huifeng Guo, Ruiming Tang\
+arxiv\
+[[LINK](https://arxiv.org/abs/2406.12433)]
 
 Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation\
 Jingtong Gao, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
