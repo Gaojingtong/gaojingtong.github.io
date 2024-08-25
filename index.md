@@ -64,6 +64,9 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 
 ### Publications
 
+Multimodal Recommender Systems: A Survey
+CSUR (accepted)
+
 LLM-enhanced Reranking in Recommender Systems\
 Jingtong Gao, Bo Chen, Xiangyu Zhao, Weiwen Liu, Xiangyang Li, Yichao Wang, Zijian Zhang, Wanyu Wang, Yuyang Ye, Shanru Lin, Huifeng Guo, Ruiming Tang\
 arxiv\
