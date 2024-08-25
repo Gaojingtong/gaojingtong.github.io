@@ -33,6 +33,7 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 - Outstanding Academic Performance Award (OAPA-CityU)
 
 ## News
+- **2024.08:** Our survey "Multimodal Recommender Systems: A Survey" has been accepted by CSUR.
 - **2024.07:** Our LLM-based reranking framework "LLM-enhanced Reranking in Recommender Systems" is available on arxiv, welcome to cite it.
 - **2024.07:** We achieved second place overall in the "KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)" competition hosted by Amazon. (Third place in three tracks and second place in two tracks)
 - **2024.07:** Our multiscenario recommendation framework [HierRec](https://arxiv.org/abs/2309.02061) has been accepted by CIKM2024 and deployed in related services of Huawei. Welcome to cite it.
