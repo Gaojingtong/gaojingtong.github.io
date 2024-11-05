@@ -65,7 +65,7 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 ### Publications
 
 Multimodal Recommender Systems: A Survey\
-Liu, Qidong and Hu, Jiaxi and Xiao, Yutian and Zhao, Xiangyu and Gao, Jingtong and Wang, Wanyu and Li, Qing and Tang, Jiliang\
+Qidong Liu, Jiaxi Hu, Yutian Xiao, Xiangyu Zhao, Jingtong Gao, Wanyu Wang, Qing Li, Jiliang Tang\
 CSUR, ACM Computing Surveys\
 [[CITE](bibtex/liu2024multimodal.html)]
 
