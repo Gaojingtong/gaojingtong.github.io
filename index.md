@@ -64,8 +64,10 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 
 ### Publications
 
-Multimodal Recommender Systems: A Survey
-CSUR (accepted)
+Multimodal Recommender Systems: A Survey\
+Liu, Qidong and Hu, Jiaxi and Xiao, Yutian and Zhao, Xiangyu and Gao, Jingtong and Wang, Wanyu and Li, Qing and Tang, Jiliang\
+CSUR, ACM Computing Surveys\
+[[CITE](bibtex/liu2024multimodal.html)]
 
 LLM-enhanced Reranking in Recommender Systems\
 Jingtong Gao, Bo Chen, Xiangyu Zhao, Weiwen Liu, Xiangyang Li, Yichao Wang, Zijian Zhang, Wanyu Wang, Yuyang Ye, Shanru Lin, Huifeng Guo, Ruiming Tang\
@@ -79,7 +81,7 @@ CIKM'24, Proceedings of the 33nd ACM International Conference on Information & K
 
 [SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations](https://dl.acm.org/doi/pdf/10.1145/3637871)\
 Jingtong Gao, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
-Transactions on lnformation Systems\
+TOIS, Transactions on lnformation Systems\
 [[CITE](bibtex/gao2024smlp4rec.html)]
 
 [AutoTransfer: Instance Transfer for Cross-Domain Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591701)\
