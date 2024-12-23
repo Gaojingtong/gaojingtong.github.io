@@ -27,12 +27,12 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 ### 2024
 - **1st place** in the "[\[NeurIPS\] 2024 AIGB Track: Learning Auto-Bidding Agent with Generative Models](https://tianchi.aliyun.com/competition/entrance/532236/)" competition hosted by Alimama over thousands of teams. (Team KGAB)
 - **2nd place overall** in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Group AML666)
-- Outstanding Academic Performance Award (OAPA-CityU)
+- Outstanding Academic Performance Award (OAPA-CityU 2024)
 
 ### 2023
 - IJCAI'23 Travel Award
-- Research Tuition Scholarship (RTS-CityU) 
-- Outstanding Academic Performance Award (OAPA-CityU)
+- Research Tuition Scholarship (RTS-CityU 2023) 
+- Outstanding Academic Performance Award (OAPA-CityU 2023)
 
 ## News
 - **2024.12:** We achieved **1st place** in the "[\[NeurIPS\] 2024 AIGB Track: Learning Auto-Bidding Agent with Generative Models](https://tianchi.aliyun.com/competition/entrance/532236/)" competition hosted by Alimama over thousands of teams!
