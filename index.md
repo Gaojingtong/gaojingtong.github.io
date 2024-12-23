@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>Jingtong Gao   高璟桐</h1>
-      <p><b>Ph.D.</b></p>
+      <p><b>PhD</b></p>
       <p><b>School of Data Science</b></p>
       <p><b>City University of Hong Kong (CityU)</b></p>
       <p><b>Email: jt.g@my.cityu.edu.hk</b></p>
