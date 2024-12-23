@@ -41,7 +41,7 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 - **2024.08:** Our survey "Multimodal Recommender Systems: A Survey" has been accepted by CSUR.
 - **2024.07:** Our LLM-based reranking framework "LLM-enhanced Reranking in Recommender Systems" is available on arxiv, welcome to cite it.
 - **2024.07:** We achieved **2nd place overall** in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Third place in three tracks and second place in two tracks)
-- **2024.07:** Our multiscenario recommendation framework [HierRec](https://arxiv.org/abs/2309.02061) has been accepted by CIKM2024 and deployed in related services of Huawei. Welcome to cite it.
+- **2024.07:** Our multiscenario recommendation framework [HierRec](https://dl.acm.org/doi/abs/10.1145/3627673.3679615) has been accepted by CIKM2024 and deployed in related services of Huawei. Welcome to cite it.
 - **2024.03:** I work as a PC member of CIKM 2024.
 - **2024.02:** I work as a reviewer of KDD 2024.
 - **2024.02:** I work as a reviewer of TKDD.
@@ -50,7 +50,7 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 
 ### Tutorials
 
-Joint Modeling in Deep Recommender Systems
+Joint Modeling in Deep Recommender Systems\
 Pengyue Jia, **Jingtong Gao**, Yuhao Wang, Xiaopeng Li, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
 WWW'25, Proceedings of the ACM Web Conference 2025\
 **Coming Soon**
@@ -74,22 +74,20 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 
 ### Publications
 
-GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems\
+[GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems](https://arxiv.org/pdf/2406.10244)\
 Sheng Zhang, Maolin Wang, Wanyu Wang, **Jingtong Gao**, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu\
-KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
-[[LINK](https://arxiv.org/pdf/2406.10244)]
+KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-Multimodal Recommender Systems: A Survey\
+[Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/pdf/10.1145/3695461)\
 Qidong Liu, Jiaxi Hu, Yutian Xiao, Xiangyu Zhao, **Jingtong Gao**, Wanyu Wang, Qing Li, Jiliang Tang\
 CSUR, ACM Computing Surveys\
 [[CITE](bibtex/liu2024multimodal.html)]
 
-LLM-enhanced Reranking in Recommender Systems\
+[LLM-enhanced Reranking in Recommender Systems](https://arxiv.org/abs/2406.12433)\
 **Jingtong Gao**, Bo Chen, Xiangyu Zhao, Weiwen Liu, Xiangyang Li, Yichao Wang, Zijian Zhang, Wanyu Wang, Yuyang Ye, Shanru Lin, Huifeng Guo, Ruiming Tang\
-arxiv\
-[[LINK](https://arxiv.org/abs/2406.12433)]
+Arxiv
 
-Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation\
+[Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation](https://dl.acm.org/doi/pdf/10.1145/3627673.3679615)\
 **Jingtong Gao**, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
 CIKM'24, Proceedings of the 33nd ACM International Conference on Information & Knowledge Management\
 [[CITE](bibtex/gao2024hierrec.html)]
