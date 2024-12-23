@@ -92,6 +92,10 @@ Arxiv
 CIKM'24, Proceedings of the 33nd ACM International Conference on Information & Knowledge Management\
 [[CITE](bibtex/gao2024hierrec.html)]
 
+[A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
+Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, **Jingtong Gao**, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
+Arxiv (IJCAI'23 & WWW'23 Tutorial)
+
 [SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations](https://dl.acm.org/doi/pdf/10.1145/3637871)\
 **Jingtong Gao**, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
 TOIS, Transactions on lnformation Systems\
