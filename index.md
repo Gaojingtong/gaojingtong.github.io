@@ -17,7 +17,7 @@
 
 ## Brief Biography
 
-Jingtong Gao is a Ph.D. student of Data Science at City University of Hong Kong (CityU) under the advisory of Prof. Xiangyu Zhao. Prior to CityU, he completed his MSc under the advisory of Prof. Wang Dan Wei at NTU in 2022 and his B.Eng. under the advisory of Prof. Shaopeng Dong at BUAA in 2021.
+Jingtong Gao is a PhD student of Data Science at the City University of Hong Kong (CityU) under the advisory of Prof. Xiangyu Zhao. Prior to CityU, he completed his MSc under the advisory of Prof. Wang Dan Wei at NTU in 2022 and his B.Eng. under the advisory of Prof. Shaopeng Dong at BUAA in 2021.
 
 ## Research Interests/Areas
 Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine Learning, Computer Vision, Robotics.
@@ -25,8 +25,9 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 ## Awards and Prizes
 
 ### 2024
-- **1st place** in the "[\[NeurIPS\] 2024 AIGB Track: Learning Auto-Bidding Agent with Generative Models](https://tianchi.aliyun.com/competition/entrance/532236/)" competition hosted by Alimama over thousands of teams.
-- **2nd place overall** in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Group AML666) 
+- **1st place** in the "[\[NeurIPS\] 2024 AIGB Track: Learning Auto-Bidding Agent with Generative Models](https://tianchi.aliyun.com/competition/entrance/532236/)" competition hosted by Alimama over thousands of teams. (Team KGAB)
+- **2nd place overall** in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Group AML666)
+- Outstanding Academic Performance Award (OAPA-CityU)
 
 ### 2023
 - IJCAI'23 Travel Award
