@@ -6,6 +6,7 @@
       <p><b>School of Data Science</b></p>
       <p><b>City University of Hong Kong (CityU)</b></p>
       <p><b>Email: jt.g@my.cityu.edu.hk</b></p>
+      <p><b><a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=tkis1Q0AAAAJ">[Google Scholar]</a></b></p>
     </td>
     <td width="25%">
       <img src="/gaojingtong.png" width="100%">
