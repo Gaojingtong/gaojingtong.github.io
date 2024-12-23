@@ -39,7 +39,7 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 - **2024.12:** Our tutorial "Joint Modeling in Deep Recommender Systems" has been accepted by WWW 2025.
 - **2024.12:** Our paper "GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems" has been accepted by KDD 2025.
 - **2024.08:** Our survey "Multimodal Recommender Systems: A Survey" has been accepted by CSUR.
-- **2024.07:** Our LLM-based reranking framework "LLM-enhanced Reranking in Recommender Systems" is available on arxiv, welcome to cite it.
+- **2024.07:** Our LLM-based reranking framework "LLM-enhanced Reranking in Recommender Systems" is available on Arxiv, welcome to cite it.
 - **2024.07:** We achieved **2nd place overall** in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Third place in three tracks and second place in two tracks)
 - **2024.07:** Our multiscenario recommendation framework [HierRec](https://dl.acm.org/doi/abs/10.1145/3627673.3679615) has been accepted by CIKM2024 and deployed in related services of Huawei. Welcome to cite it.
 - **2024.03:** I work as a PC member of CIKM 2024.
