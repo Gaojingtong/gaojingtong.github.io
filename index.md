@@ -36,6 +36,8 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 - Outstanding Academic Performance Award (OAPA-CityU 2023)
 
 ## News
+- **2025.01:** Our paper "SampleLLM: Optimizing Tabular Data Synthesis in Recommendations" and "GAS: Generative Auto-bidding with Post-training Search" has been accepted by WWW 2025 Industry Track.
+- **2025.01:** Our paper "LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations" has been accepted by WWW 2025.
 - **2024.12:** We achieved **1st place** in the "[\[NeurIPS\] 2024 AIGB Track: Learning Auto-Bidding Agent with Generative Models](https://tianchi.aliyun.com/competition/entrance/532236/)" competition hosted by Alimama over thousands of teams!
 - **2024.12:** Our tutorial "Joint Modeling in Deep Recommender Systems" has been accepted by WWW 2025.
 - **2024.12:** Our paper "GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems" has been accepted by KDD 2025.
@@ -75,6 +77,18 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 
 ### Publications
 
+SampleLLM: Optimizing Tabular Data Synthesis in Recommendations\
+**Jingtong Gao**, Zhaocheng Du, Xiaopeng Li, Xiangyu Zhao, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang\
+WWW'25, Proceedings of the ACM Web Conference 2025
+
+[LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations](https://arxiv.org/abs/2406.12433)\
+**Jingtong Gao**, Bo Chen, Xiangyu Zhao, Weiwen Liu, Xiangyang Li, Yichao Wang, Wanyu Wang, Huifeng Guo, Ruiming Tang\
+WWW'25, Proceedings of the ACM Web Conference 2025
+
+[GAS: Generative Auto-bidding with Post-training Search](https://arxiv.org/abs/2412.17018)\
+Yewen Li, Shuai Mao, **Jingtong Gao**, Nan Jiang, Yujian Xu, Qingpeng Cai, Fei Pan, Peng Jiang and Bo An\
+WWW'25, Proceedings of the ACM Web Conference 2025
+
 [GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems](https://arxiv.org/pdf/2406.10244)\
 Sheng Zhang, Maolin Wang, Wanyu Wang, **Jingtong Gao**, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu\
 KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining
@@ -83,10 +97,6 @@ KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and
 Qidong Liu, Jiaxi Hu, Yutian Xiao, Xiangyu Zhao, **Jingtong Gao**, Wanyu Wang, Qing Li, Jiliang Tang\
 CSUR, ACM Computing Surveys\
 [[CITE](bibtex/liu2024multimodal.html)]
-
-[LLM-enhanced Reranking in Recommender Systems](https://arxiv.org/abs/2406.12433)\
-**Jingtong Gao**, Bo Chen, Xiangyu Zhao, Weiwen Liu, Xiangyang Li, Yichao Wang, Zijian Zhang, Wanyu Wang, Yuyang Ye, Shanru Lin, Huifeng Guo, Ruiming Tang\
-Arxiv
 
 [Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation](https://dl.acm.org/doi/pdf/10.1145/3627673.3679615)\
 **Jingtong Gao**, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
