@@ -35,6 +35,10 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 - Research Tuition Scholarship (RTS-CityU 2023) 
 - Outstanding Academic Performance Award (OAPA-CityU 2023)
 
+## Professional Experience
+- **2024.08 - Present**: Research Intern at **Kuaishou**
+- **2023 - 2024.06**: Research Intern at **Huawei**
+
 ## News
 - **2025.01:** Our paper "SampleLLM: Optimizing Tabular Data Synthesis in Recommendations" and "GAS: Generative Auto-bidding with Post-training Search" has been accepted by WWW 2025 Industry Track.
 - **2025.01:** Our paper "LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations" has been accepted by WWW 2025.
@@ -45,9 +49,6 @@ Recommender Systems, Large Language Model, Deep Reinforcement Learning, Machine 
 - **2024.07:** Our LLM-based reranking framework "LLM-enhanced Reranking in Recommender Systems" is available on Arxiv, welcome to cite it.
 - **2024.07:** We achieved **2nd place overall** in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Third place in three tracks and second place in two tracks)
 - **2024.07:** Our multiscenario recommendation framework [HierRec](https://dl.acm.org/doi/abs/10.1145/3627673.3679615) has been accepted by CIKM2024 and deployed in related services of Huawei. Welcome to cite it.
-- **2024.03:** I work as a PC member of CIKM 2024.
-- **2024.02:** I work as a reviewer of KDD 2024.
-- **2024.02:** I work as a reviewer of TKDD.
 
 ## Publications and Tutorials
 
