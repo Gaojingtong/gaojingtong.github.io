@@ -78,7 +78,7 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 
 ### Publications
 
-SampleLLM: Optimizing Tabular Data Synthesis in Recommendations\
+[SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)\
 **Jingtong Gao**, Zhaocheng Du, Xiaopeng Li, Xiangyu Zhao, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang\
 WWW'25, Proceedings of the ACM Web Conference 2025
 
