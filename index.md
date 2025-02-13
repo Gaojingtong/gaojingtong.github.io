@@ -81,12 +81,12 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 [SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)\
 **Jingtong Gao**, Zhaocheng Du, Xiaopeng Li, Xiangyu Zhao, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang\
 WWW'25, Proceedings of the ACM Web Conference 2025\
-<font color="red">Oral Presentation, 1 online launched system</font>
+**Oral Presentation, 1 online launched system**
 
 [LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations](https://arxiv.org/abs/2406.12433)\
 **Jingtong Gao**, Bo Chen, Xiangyu Zhao, Weiwen Liu, Xiangyang Li, Yichao Wang, Wanyu Wang, Huifeng Guo, Ruiming Tang\
 WWW'25, Proceedings of the ACM Web Conference 2025\
-<font color="red">Oral Presentation</font>
+**Oral Presentation**
 
 [GAS: Generative Auto-bidding with Post-training Search](https://arxiv.org/abs/2412.17018)\
 Yewen Li, Shuai Mao, **Jingtong Gao**, Nan Jiang, Yujian Xu, Qingpeng Cai, Fei Pan, Peng Jiang and Bo An\
@@ -104,7 +104,7 @@ CSUR, ACM Computing Surveys\
 [Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation](https://dl.acm.org/doi/pdf/10.1145/3627673.3679615)\
 **Jingtong Gao**, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
 CIKM'24, Proceedings of the 33nd ACM International Conference on Information & Knowledge Management\
-<font color="red">1 online launched system</font>\
+**1 online launched system**\
 [[CITE](bibtex/gao2024hierrec.html)]
 
 [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
