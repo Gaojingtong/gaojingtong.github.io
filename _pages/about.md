@@ -34,7 +34,7 @@ My research interest includes Recommender Systems, Large Language Model, Deep Re
 - **2024.07:** &nbsp;🎉🎉 We achieved **2nd place overall** in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Third place in three tracks and second place in two tracks)
 - **2024.07:** &nbsp;🎉🎉 Our multiscenario recommendation framework [HierRec](https://dl.acm.org/doi/abs/10.1145/3627673.3679615) has been accepted by CIKM2024 and deployed in related services of Huawei. Welcome to cite it.
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 ### 2024
 - **1st place** in the "[\[NeurIPS\] 2024 AIGB Track: Learning Auto-Bidding Agent with Generative Models](https://tianchi.aliyun.com/competition/entrance/532236/)" competition hosted by Alimama over thousands of teams. (Team KGAB)
 - **2nd place overall** in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Group AML666)
