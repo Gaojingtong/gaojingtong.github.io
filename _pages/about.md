@@ -17,9 +17,9 @@ redirect_from:
 
 [//]: # (<span class='anchor' id='about-me'></span>)
 # 💡 About Me
-I'm a PhD student of Data Science at the City University of Hong Kong (CityU) under the advisory of Prof. Xiangyu Zhao. Prior to CityU, I completed my MSc under the advisory of Prof. Wang Dan Wei at Nanyang Technological University (NTU) in 2022 and my B.Eng. under the advisory of Prof. Shaopeng Dong at Beihang University (BUAA) in 2021.
+I'm currently a third-year PhD student of Data Science at the City University of Hong Kong (CityU) under the advisory of Prof. Xiangyu Zhao. Prior to CityU, I completed my MSc under the advisory of Prof. Wang Dan Wei at Nanyang Technological University (NTU) in 2022 and my B.Eng. under the advisory of Prof. Shaopeng Dong at Beihang University (BUAA) in 2021.
 
-My research interest includes Recommender Systems, Large Language Model, Deep Reinforcement Learning and Machine Learning. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'>200+ citations</a>.
+My research interest includes Recommender Systems, Large Language Models, Deep Reinforcement Learning and Machine Learning. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'>200+ citations</a>.
 
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
