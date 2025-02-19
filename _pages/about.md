@@ -15,7 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+[//]: # (<span class='anchor' id='about-me'></span>)
+# 💡 About Me
 I'm a PhD student of Data Science at the City University of Hong Kong (CityU) under the advisory of Prof. Xiangyu Zhao. Prior to CityU, I completed my MSc under the advisory of Prof. Wang Dan Wei at Nanyang Technological University (NTU) in 2022 and my B.Eng. under the advisory of Prof. Shaopeng Dong at Beihang University (BUAA) in 2021.
 
 My research interest includes Recommender Systems, Large Language Model, Deep Reinforcement Learning and Machine Learning. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'>200+ citations</a>.
@@ -33,7 +34,7 @@ My research interest includes Recommender Systems, Large Language Model, Deep Re
 - **2024.07:** &nbsp;🎉🎉 We achieved **2nd place overall** in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Third place in three tracks and second place in two tracks)
 - **2024.07:** &nbsp;🎉🎉 Our multiscenario recommendation framework [HierRec](https://dl.acm.org/doi/abs/10.1145/3627673.3679615) has been accepted by CIKM2024 and deployed in related services of Huawei. Welcome to cite it.
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 ### 2024
 - **1st place** in the "[\[NeurIPS\] 2024 AIGB Track: Learning Auto-Bidding Agent with Generative Models](https://tianchi.aliyun.com/competition/entrance/532236/)" competition hosted by Alimama over thousands of teams. (Team KGAB)
 - **2nd place overall** in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Group AML666)
