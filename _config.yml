@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Jingtong Gao"
-description              :
-repository               :
+#description              :
+repository               : "https://github.com/Gaojingtong/gaojingtong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,7 +24,7 @@ author:
   name             : "Jingtong Gao"
   avatar           : "images/pic.jpg"
   bio              : "City University of Hong Kong"
-  lab              : "Applied Machine Learning Lab"
+  lab              : "AML Lab"
   laburl           : "https://aml-cityu.github.io/"
   department       : "Department of Data Science"
   departmenturl    : "https://www.ds.cityu.edu.hk/"
