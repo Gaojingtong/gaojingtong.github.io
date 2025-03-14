@@ -26,12 +26,13 @@ My research interest includes Recommender Systems, Large Language Models, Deep R
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 # 🔥 News
+- **2025.02:** Our survey "[From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval](https://arxiv.org/abs/2502.12448)" is available on Arxiv, welcome to cite it.
 - **2025.01:** &nbsp;🎉🎉 Our paper "SampleLLM: Optimizing Tabular Data Synthesis in Recommendations" and "GAS: Generative Auto-bidding with Post-training Search" has been accepted by WWW 2025 Industry Track.
 - **2025.01:** &nbsp;🎉🎉 Our paper "LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations" has been accepted by WWW 2025.
 - **2024.12:** &nbsp;🎉🎉 We achieved **1st place** in the "[\[NeurIPS\] 2024 AIGB Track: Learning Auto-Bidding Agent with Generative Models](https://tianchi.aliyun.com/competition/entrance/532236/)" competition hosted by Alimama over thousands of teams!
 - **2024.12:** &nbsp;🎉🎉 Our tutorial "Joint Modeling in Deep Recommender Systems" has been accepted by WWW 2025.
 - **2024.12:** &nbsp;🎉🎉 Our paper "GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems" has been accepted by KDD 2025.
-- **2024.08:** &nbsp;🎉🎉 Our survey "Multimodal Recommender Systems: A Survey" has been accepted by CSUR.
+- **2024.08:** &nbsp;🎉🎉 Our survey "[Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/pdf/10.1145/3695461)" has been accepted by CSUR.
 - **2024.07:** Our LLM-based reranking framework "LLM-enhanced Reranking in Recommender Systems" is available on Arxiv, welcome to cite it.
 - **2024.07:** &nbsp;🎉🎉 We achieved **2nd place overall** in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Third place in three tracks and second place in two tracks)
 - **2024.07:** &nbsp;🎉🎉 Our multiscenario recommendation framework [HierRec](https://dl.acm.org/doi/abs/10.1145/3627673.3679615) has been accepted by CIKM2024 and deployed in related services of Huawei. Welcome to cite it.
