@@ -27,7 +27,6 @@ My research interest includes Recommender Systems, Large Language Models, Deep R
 
 # 🔥 News
 - **2025.02:** Our survey "[From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval](https://arxiv.org/abs/2502.12448)" is available on Arxiv. Welcome to cite it.
-- **2025.02:** Our survey "[From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval](https://arxiv.org/abs/2502.12448)" is available on Arxiv. Welcome to cite it.
 - **2025.01:** &nbsp;🎉🎉 Our paper "[SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)" and "[GAS: Generative Auto-bidding with Post-training Search](https://arxiv.org/abs/2412.17018)" has been accepted by WWW 2025 Industry Track.
 - **2025.01:** &nbsp;🎉🎉 Our paper "[LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations](https://arxiv.org/abs/2406.12433)" has been accepted by WWW 2025.
 - **2024.12:** &nbsp;🎉🎉 We achieved **1st place** in the "[\[NeurIPS\] 2024 AIGB Track: Learning Auto-Bidding Agent with Generative Models](https://tianchi.aliyun.com/competition/entrance/532236/)" competition hosted by Alimama over thousands of teams!
