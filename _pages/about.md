@@ -72,7 +72,7 @@ My research interest includes Recommender Systems, Large Language Models, Deep R
 
 [//]: # (</div>)
 
-### Tutorials
+## Tutorials
 
 Joint Modeling in Deep Recommender Systems\
 Pengyue Jia, **Jingtong Gao**, Yuhao Wang, Xiaopeng Li, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
@@ -96,7 +96,7 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 
 ***
 
-### Publications
+## Publications
 
 [SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)\
 **Jingtong Gao**, Zhaocheng Du, Xiaopeng Li, Xiangyu Zhao, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang\
