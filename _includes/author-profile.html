@@ -10,7 +10,6 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -19,6 +18,9 @@
 <!--      {% if site.description %}-->
 <!--        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>-->
 <!--      {% endif %}-->
+      {% if author.bio %}
+        <li><div style="white-space: normal;"> {{ author.bio }} </div></li>
+      {% endif %}
       {% if author.lab %}
         <li><a href="{{ author.laburl }}"> {{ author.lab }} </a></li>
       {% endif %}
