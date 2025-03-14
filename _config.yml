@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingtong Gao"
   avatar           : "images/pic.jpg"
-  bio              : "PhD Student"
+  bio              :
   lab              : "AML Lab"
   laburl           : "https://aml-cityu.github.io/"
   department       : "Department of Data Science"
