@@ -19,16 +19,16 @@
       {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
-      {% if site.lab %}
+      {% if author.lab %}
         <li><a href="{{ author.laburl }}" style="white-space: normal; margin-bottom: 1em;"> {{ author.lab }} </a></li>
       {% endif %}
-      {% if site.department %}
+      {% if author.department %}
         <li><a href="{{ author.departmenturl }}"> {{ author.department }} </a></li>
       {% endif %}
-      {% if site.college %}
+      {% if author.college %}
         <li><a href="{{ author.collegeurl }}" style="white-space: normal; margin-bottom: 1em;"> {{ author.college }} </a></li>
       {% endif %}
-      {% if site.university %}
+      {% if author.university %}
         <li><a href="{{ author.universityurl }}" style="white-space: normal; margin-bottom: 1em;"> {{ author.university }} </a></li>
       {% endif %}
       {% if author.location %}
