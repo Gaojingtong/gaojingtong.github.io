@@ -50,6 +50,7 @@ My research interest includes Recommender Systems, Large Language Models, Deep R
 # 💻 Professional Experience
 - **2024.08 - Present**: Research Intern at **Kuaishou**
 - **2023 - 2024.06**: Research Intern at **Huawei**
+- PC member of CIKM, IJCAI
 
 # 📝 Publications 
 
