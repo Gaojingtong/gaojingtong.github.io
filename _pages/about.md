@@ -26,15 +26,11 @@ My research interest includes <u>Recommender Systems, Large Language Models, Dee
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 # 🔥 News
-- **2025.02:** Our survey "[From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval](https://arxiv.org/abs/2502.12448)" is available on Arxiv. Welcome to cite it.
+- **2025.04:** &nbsp;🎉🎉 Our paper "Generative Auto-Bidding with Value-Guided Explorations" has been accepted by SIGIR 2025.
+- **2025.02:** &nbsp;Our survey "[From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval](https://arxiv.org/abs/2502.12448)" is available on Arxiv. Welcome to cite it.
 - **2025.01:** &nbsp;🎉🎉 Our paper "[SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)" and "[GAS: Generative Auto-bidding with Post-training Search](https://arxiv.org/abs/2412.17018)" has been accepted by WWW 2025 Industry Track.
 - **2025.01:** &nbsp;🎉🎉 Our paper "[LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations](https://arxiv.org/abs/2406.12433)" has been accepted by WWW 2025.
 - **2024.12:** &nbsp;🎉🎉 We achieved **1st place** in the "[\[NeurIPS\] 2024 AIGB Track: Learning Auto-Bidding Agent with Generative Models](https://tianchi.aliyun.com/competition/entrance/532236/)" competition hosted by Alimama over thousands of teams!
-- **2024.12:** &nbsp;🎉🎉 Our tutorial "Joint Modeling in Deep Recommender Systems" has been accepted by WWW 2025.
-- **2024.12:** &nbsp;🎉🎉 Our paper "[GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems](https://arxiv.org/pdf/2406.10244)" has been accepted by KDD 2025.
-- **2024.08:** &nbsp;🎉🎉 Our survey "[Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/pdf/10.1145/3695461)" has been accepted by CSUR.
-- **2024.07:** &nbsp;🎉🎉 We achieved **2nd place overall** in the "[KDD CUP 2024 (Multi-Task Online Shopping Challenge for LLMs)](https://discourse.aicrowd.com/t/announcing-the-winners-of-amazon-kdd-cup-2024/10758)" competition hosted by Amazon. (Third place in three tracks and second place in two tracks)
-- **2024.07:** &nbsp;🎉🎉 Our multiscenario recommendation framework "[HierRec](https://dl.acm.org/doi/abs/10.1145/3627673.3679615)" has been accepted by CIKM2024 and deployed in related services of Huawei. Welcome to cite it.
 
 # 🏆 Honors and Awards
 ### 2024
@@ -97,6 +93,11 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 ***
 
 ## Publications
+
+Generative Auto-Bidding with Value-Guided Explorations\
+Jingtong Gao, Yewen Li, Shuai Mao, Peng Jiang, Nan Jiang, Yejing Wang, Qingpeng Cai, Fei Pan, Peng Jiang, Kun Gai, Bo An, Xiangyu Zhao\
+SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval\
+**1 online launched system**
 
 [From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval](https://arxiv.org/abs/2502.12448)\
 Jian Jia, **Jingtong Gao (Co-first)**, Ben Xue, Junhao Wang, Qingpeng Cai, Quan Chen, Xiangyu Zhao, Peng Jiang, Kun Gai\
