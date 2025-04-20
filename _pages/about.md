@@ -73,22 +73,22 @@ My research interest includes <u>Recommender Systems, Large Language Models, Dee
 
 ## Tutorials
 
-Joint Modeling in Deep Recommender Systems\
+**Joint Modeling in Deep Recommender Systems**\
 Pengyue Jia, **Jingtong Gao**, Yuhao Wang, Xiaopeng Li, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
 WWW'25, Proceedings of the ACM Web Conference 2025\
 **Coming Soon**
 
-Joint Modeling in Recommendations: Foundations and Frontiers\
+**Joint Modeling in Recommendations: Foundations and Frontiers**\
 Xiangyu Zhao, Yichao Wang, Bo Chen, Pengyue Jia, Yuhao Wang, **Jingtong Gao**, Huifeng Guo, Ruiming Tang\
 IJCAI'23, Proceedings of the 32st International Joint Conference on Artificial Intelligence
 
-[Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)\
+**[Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)**\
 Wenqi Fan, Xiangyu Zhao, Lin Wang, Xiao Chen, **Jingtong Gao**, Qidong Liu, Shijie Wang\
 IJCAI'23, Proceedings of the 32nd International Joint Conference on Artificial Intelligence\
 KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
 [[CITE](bibtex/fan2023trustworthy.html)]
 
-[A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
+**[A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)**\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, **Jingtong Gao**, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
 WWW'23, Companion Proceedings of the Web Conference 2023\
 [[CITE](bibtex/fan2022comprehensive.html)]
@@ -97,69 +97,69 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 
 ## Publications
 
-Generative Auto-Bidding with Value-Guided Explorations\
+**Generative Auto-Bidding with Value-Guided Explorations**\
 Jingtong Gao, Yewen Li, Shuai Mao, Peng Jiang, Nan Jiang, Yejing Wang, Qingpeng Cai, Fei Pan, Peng Jiang, Kun Gai, Bo An, Xiangyu Zhao\
 SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 **1 online launched system**
 
-[From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval](https://arxiv.org/abs/2502.12448)\
+**[From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval](https://arxiv.org/abs/2502.12448)**\
 Jian Jia, **Jingtong Gao (Co-first)**, Ben Xue, Junhao Wang, Qingpeng Cai, Quan Chen, Xiangyu Zhao, Peng Jiang, Kun Gai\
 Arxiv
 
-[SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)\
+**[SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)**\
 **Jingtong Gao**, Zhaocheng Du, Xiaopeng Li, Xiangyu Zhao, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang\
 WWW'25, Proceedings of the ACM Web Conference 2025\
 **Oral Presentation, 1 online launched system**
 
-[LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations](https://arxiv.org/abs/2406.12433)\
+**[LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations](https://arxiv.org/abs/2406.12433)**\
 **Jingtong Gao**, Bo Chen, Xiangyu Zhao, Weiwen Liu, Xiangyang Li, Yichao Wang, Wanyu Wang, Huifeng Guo, Ruiming Tang\
 WWW'25, Proceedings of the ACM Web Conference 2025\
 **Oral Presentation**
 
-[GAS: Generative Auto-bidding with Post-training Search](https://arxiv.org/abs/2412.17018)\
+**[GAS: Generative Auto-bidding with Post-training Search](https://arxiv.org/abs/2412.17018)**\
 Yewen Li, Shuai Mao, **Jingtong Gao**, Nan Jiang, Yujian Xu, Qingpeng Cai, Fei Pan, Peng Jiang, Bo An\
 WWW'25, Proceedings of the ACM Web Conference 2025
 
-[GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems](https://arxiv.org/pdf/2406.10244)\
+**[GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems](https://arxiv.org/pdf/2406.10244)**\
 Sheng Zhang, Maolin Wang, Wanyu Wang, **Jingtong Gao**, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu\
 KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-[Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/pdf/10.1145/3695461)\
+**[Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/pdf/10.1145/3695461)**\
 Qidong Liu, Jiaxi Hu, Yutian Xiao, Xiangyu Zhao, **Jingtong Gao**, Wanyu Wang, Qing Li, Jiliang Tang\
 CSUR, ACM Computing Surveys\
 [[CITE](bibtex/liu2024multimodal.html)]
 
-[Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation](https://dl.acm.org/doi/pdf/10.1145/3627673.3679615)\
+**[Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation](https://dl.acm.org/doi/pdf/10.1145/3627673.3679615)**\
 **Jingtong Gao**, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
 CIKM'24, Proceedings of the 33nd ACM International Conference on Information & Knowledge Management\
 **1 online launched system**\
 [[CITE](bibtex/gao2024hierrec.html)]
 
-[A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
+**[A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)**\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, **Jingtong Gao**, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
 Arxiv (IJCAI'23 Tutorial, WWW'23 Tutorial)
 
-[SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations](https://dl.acm.org/doi/pdf/10.1145/3637871)\
+**[SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations](https://dl.acm.org/doi/pdf/10.1145/3637871)**\
 **Jingtong Gao**, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
 TOIS, Transactions on lnformation Systems\
 [[CITE](bibtex/gao2024smlp4rec.html)]
 
-[AutoTransfer: Instance Transfer for Cross-Domain Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591701)\
+**[AutoTransfer: Instance Transfer for Cross-Domain Recommendations](https://dl.acm.org/doi/pdf/10.1145/3539618.3591701)**\
 **Jingtong Gao**, Xiangyu Zhao, Bo Chen, Fan Yan, Huifeng Guo, Ruiming Tang\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE](bibtex/gao2023autotransfer.html)]
 
-[LinRec: Linear Attention Mechanism for Long-term Sequential Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3539618.3591717)\
+**[LinRec: Linear Attention Mechanism for Long-term Sequential Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3539618.3591717)**\
 Langming Liu, Liu Cai, Chi Zhang, Xiangyu Zhao, **Jingtong Gao**, Wanyu Wang, Yifu Lv, Wenqi Fan, Yiqi Wang, Ming He, Zitao Liu, Qing Li\
 SIGIR'23, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 [[CITE](bibtex/liu2023linrec.html)]
 
-[Multi-Task Recommendations with Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3543507.3583467)\
+**[Multi-Task Recommendations with Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3543507.3583467)**\
 Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao, **Jingtong Gao**, Shuchang Liu, Dayou Chen, Tonghao He, Dong Zheng, Peng Jiang, Kun Gai\
 WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE](bibtex/liu2023multi.html)]
 
-[DRN-GAN: an integrated deep learning-based health degradation assessment model for naval propulsion system](https://www.emerald.com/insight/content/doi/10.1108/EC-10-2021-0624/full/html)\
+**[DRN-GAN: an integrated deep learning-based health degradation assessment model for naval propulsion system](https://www.emerald.com/insight/content/doi/10.1108/EC-10-2021-0624/full/html)**\
 **Jingtong Gao**, Shaopeng Dong, Jin Cui, Mei Yuan, Juanru Zhao\
 Engineering Computations\
 [[CITE](bibtex/gao2022drn.html)]
