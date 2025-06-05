@@ -99,7 +99,7 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 **[Generative Auto-Bidding with Value-Guided Explorations](https://arxiv.org/abs/2504.14587)**\
 Jingtong Gao, Yewen Li, Shuai Mao, Peng Jiang, Nan Jiang, Yejing Wang, Qingpeng Cai, Fei Pan, Peng Jiang, Kun Gai, Bo An, Xiangyu Zhao\
 SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval\
-**1 online launched system**
+**1 online launched system at Kuaishou**
 
 **[From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval](https://arxiv.org/abs/2502.12448)**\
 Jian Jia, **Jingtong Gao (Co-first)**, Ben Xue, Junhao Wang, Qingpeng Cai, Quan Chen, Xiangyu Zhao, Peng Jiang, Kun Gai\
@@ -108,7 +108,7 @@ Arxiv
 **[SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://dl.acm.org/doi/pdf/10.1145/3701716.3715253)**\
 **Jingtong Gao**, Zhaocheng Du, Xiaopeng Li, Xiangyu Zhao, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang\
 WWW'25, Proceedings of the ACM Web Conference 2025\
-**Oral Presentation, 1 online launched system**
+**Oral Presentation, 1 online launched system at Huawei**
 [[CITE](bibtex/gao2025samplellm.html)]
 
 **[LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations](https://dl.acm.org/doi/pdf/10.1145/3696410.3714922)**\
@@ -134,7 +134,7 @@ CSUR, ACM Computing Surveys\
 **[Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation](https://dl.acm.org/doi/pdf/10.1145/3627673.3679615)**\
 **Jingtong Gao**, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
 CIKM'24, Proceedings of the 33nd ACM International Conference on Information & Knowledge Management\
-**1 online launched system**\
+**1 online launched system at Huawei**\
 [[CITE](bibtex/gao2024hierrec.html)]
 
 **[A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)**\
