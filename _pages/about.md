@@ -73,21 +73,21 @@ My research interest includes <u>Recommender Systems, Large Language Models, Dee
 
 ## Tutorials
 
-**Joint Modeling in Deep Recommender Systems**\
+[4] **Joint Modeling in Deep Recommender Systems**\
 Pengyue Jia, **Jingtong Gao**, Yuhao Wang, Xiaopeng Li, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
 WWW'25, Proceedings of the ACM Web Conference 2025
 
-**Joint Modeling in Recommendations: Foundations and Frontiers**\
+[3] **Joint Modeling in Recommendations: Foundations and Frontiers**\
 Xiangyu Zhao, Yichao Wang, Bo Chen, Pengyue Jia, Yuhao Wang, **Jingtong Gao**, Huifeng Guo, Ruiming Tang\
 IJCAI'23, Proceedings of the 32st International Joint Conference on Artificial Intelligence
 
-**[Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)**\
+[2] **[Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)**\
 Wenqi Fan, Xiangyu Zhao, Lin Wang, Xiao Chen, **Jingtong Gao**, Qidong Liu, Shijie Wang\
 IJCAI'23, Proceedings of the 32nd International Joint Conference on Artificial Intelligence\
 KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
 [[CITE](bibtex/fan2023trustworthy.html)]
 
-**[A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)**\
+[1] **[A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)**\
 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, **Jingtong Gao**, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
 WWW'23, Companion Proceedings of the Web Conference 2023\
 [[CITE](bibtex/fan2022comprehensive.html)]
