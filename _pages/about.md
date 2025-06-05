@@ -126,7 +126,7 @@ WWW'25, Proceedings of the ACM Web Conference 2025\
 Sheng Zhang, Maolin Wang, Wanyu Wang, **Jingtong Gao**, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu\
 KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-**[J2] [Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/pdf/10.1145/3695461)**\
+**[J3] [Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/pdf/10.1145/3695461)**\
 Qidong Liu, Jiaxi Hu, Yutian Xiao, Xiangyu Zhao, **Jingtong Gao**, Wanyu Wang, Qing Li, Jiliang Tang\
 CSUR, ACM Computing Surveys\
 [[CITE](bibtex/liu2024multimodal.html)]
@@ -142,7 +142,7 @@ Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, **Jingtong Gao**, Lin Wang, Qido
 IJCAI'23 Tutorial, WWW'23 Tutorial\
 [[CITE](bibtex/fan2022comprehensive.html)]
 
-**[J1] [SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations](https://dl.acm.org/doi/pdf/10.1145/3637871)**\
+**[J2] [SMLP4Rec: An Efficient all-MLP Architecture for Sequential Recommendations](https://dl.acm.org/doi/pdf/10.1145/3637871)**\
 **Jingtong Gao**, Xiangyu Zhao, Muyang Li, Minghao Zhao, Runze Wu, Ruocheng Guo, Yiding Liu, Dawei Yin\
 TOIS, Transactions on lnformation Systems\
 [[CITE](bibtex/gao2024smlp4rec.html)]
@@ -162,3 +162,7 @@ Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao, **Jingtong Gao**, Shuchang Li
 WWW'23, Proceedings of the ACM Web Conference 2023\
 [[CITE](bibtex/liu2023multi.html)]
 
+**[J1] [DRN-GAN: an integrated deep learning-based health degradation assessment model for naval propulsion system](https://www.emerald.com/insight/content/doi/10.1108/EC-10-2021-0624/full/pdf)**\
+**Jingtong Gao**, Shaopeng Dong, Jin Cui, Mei Yuan, Juanru Zhao\
+Engineering Computations\
+[[CITE](bibtex/gao2022drn.html)]
