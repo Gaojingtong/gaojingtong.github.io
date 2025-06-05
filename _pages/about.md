@@ -108,18 +108,18 @@ Arxiv
 **[SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://dl.acm.org/doi/pdf/10.1145/3701716.3715253)**\
 **Jingtong Gao**, Zhaocheng Du, Xiaopeng Li, Xiangyu Zhao, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang\
 WWW'25, Proceedings of the ACM Web Conference 2025\
-**Oral Presentation, 1 online launched system at Huawei**
+**Oral Presentation, 1 online launched system at Huawei**\
 [[CITE](bibtex/gao2025samplellm.html)]
 
 **[LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations](https://dl.acm.org/doi/pdf/10.1145/3696410.3714922)**\
 **Jingtong Gao**, Bo Chen, Xiangyu Zhao, Weiwen Liu, Xiangyang Li, Yichao Wang, Wanyu Wang, Huifeng Guo, Ruiming Tang\
 WWW'25, Proceedings of the ACM Web Conference 2025\
-**Oral Presentation**
+**Oral Presentation**\
 [[CITE](bibtex/gao2025llm4rerank.html)]
 
 **[GAS: Generative Auto-bidding with Post-training Search](https://dl.acm.org/doi/pdf/10.1145/3701716.3715226)**\
 Yewen Li, Shuai Mao, **Jingtong Gao**, Nan Jiang, Yujian Xu, Qingpeng Cai, Fei Pan, Peng Jiang, Bo An\
-WWW'25, Proceedings of the ACM Web Conference 2025
+WWW'25, Proceedings of the ACM Web Conference 2025\
 [[CITE](bibtex/li2025gas.html)]
 
 **[GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems](https://arxiv.org/pdf/2406.10244)**\
