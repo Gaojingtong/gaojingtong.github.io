@@ -96,7 +96,7 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 
 ## Publications
 
-**Generative Auto-Bidding with Value-Guided Explorations**\
+**[Generative Auto-Bidding with Value-Guided Explorations](https://arxiv.org/abs/2504.14587)**\
 Jingtong Gao, Yewen Li, Shuai Mao, Peng Jiang, Nan Jiang, Yejing Wang, Qingpeng Cai, Fei Pan, Peng Jiang, Kun Gai, Bo An, Xiangyu Zhao\
 SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 **1 online launched system**
