@@ -75,8 +75,7 @@ My research interest includes <u>Recommender Systems, Large Language Models, Dee
 
 **Joint Modeling in Deep Recommender Systems**\
 Pengyue Jia, **Jingtong Gao**, Yuhao Wang, Xiaopeng Li, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
-WWW'25, Proceedings of the ACM Web Conference 2025\
-**Coming Soon**
+WWW'25, Proceedings of the ACM Web Conference 2025
 
 **Joint Modeling in Recommendations: Foundations and Frontiers**\
 Xiangyu Zhao, Yichao Wang, Bo Chen, Pengyue Jia, Yuhao Wang, **Jingtong Gao**, Huifeng Guo, Ruiming Tang\
@@ -106,19 +105,22 @@ SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research
 Jian Jia, **Jingtong Gao (Co-first)**, Ben Xue, Junhao Wang, Qingpeng Cai, Quan Chen, Xiangyu Zhao, Peng Jiang, Kun Gai\
 Arxiv
 
-**[SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)**\
+**[SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://dl.acm.org/doi/pdf/10.1145/3701716.3715253)**\
 **Jingtong Gao**, Zhaocheng Du, Xiaopeng Li, Xiangyu Zhao, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang\
 WWW'25, Proceedings of the ACM Web Conference 2025\
 **Oral Presentation, 1 online launched system**
+[[CITE](bibtex/gao2025samplellm.html)]
 
-**[LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations](https://arxiv.org/abs/2406.12433)**\
+**[LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations](https://dl.acm.org/doi/pdf/10.1145/3696410.3714922)**\
 **Jingtong Gao**, Bo Chen, Xiangyu Zhao, Weiwen Liu, Xiangyang Li, Yichao Wang, Wanyu Wang, Huifeng Guo, Ruiming Tang\
 WWW'25, Proceedings of the ACM Web Conference 2025\
 **Oral Presentation**
+[[CITE](bibtex/gao2025llm4rerank.html)]
 
-**[GAS: Generative Auto-bidding with Post-training Search](https://arxiv.org/abs/2412.17018)**\
+**[GAS: Generative Auto-bidding with Post-training Search](https://dl.acm.org/doi/pdf/10.1145/3701716.3715226)**\
 Yewen Li, Shuai Mao, **Jingtong Gao**, Nan Jiang, Yujian Xu, Qingpeng Cai, Fei Pan, Peng Jiang, Bo An\
 WWW'25, Proceedings of the ACM Web Conference 2025
+[[CITE](bibtex/li2025gas.html)]
 
 **[GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems](https://arxiv.org/pdf/2406.10244)**\
 Sheng Zhang, Maolin Wang, Wanyu Wang, **Jingtong Gao**, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu\
