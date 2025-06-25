@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 [//]: # (<span class='anchor' id='about-me'></span>)
-# 💡 About Me [[My CV](pdf/CV_JingtongGao.pdf)]
+# 💡 About Me [My CV: [English Version](pdf/CV-EN-Gao Jingtong-250625.pdf)/[Chinese Version](pdf/CV-CN-Gao Jingtong-250625.pdf)]
 I'm currently a third-year **PhD student** of Data Science at the **City University of Hong Kong (CityU)** under the advisory of Prof. Xiangyu Zhao. Prior to CityU, I completed my MSc under the advisory of Prof. Danwei Wang at Nanyang Technological University (NTU) in 2022 and my BEng under the advisory of Prof. Shaopeng Dong at Beihang University (BUAA) in 2021.
 
 My research interest includes <u>Recommender Systems, Large Language Models, Deep Reinforcement Learning and Machine Learning</u>. I have published several papers at the top international AI conferences with <a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
