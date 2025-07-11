@@ -104,7 +104,7 @@ Arxiv
 **[C10] [Generative Auto-Bidding with Value-Guided Explorations](https://arxiv.org/abs/2504.14587)**\
 **Jingtong Gao**, Yewen Li, Shuai Mao, Peng Jiang, Nan Jiang, Yejing Wang, Qingpeng Cai, Fei Pan, Peng Jiang, Kun Gai, Bo An, Xiangyu Zhao\
 SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval\
-**1 online launched system, annual outstanding project of Kuaishou**
+**1 online launched system**
 
 **[From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval](https://arxiv.org/abs/2502.12448)**\
 Jian Jia, **Jingtong Gao (Co-first)**, Ben Xue, Junhao Wang, Qingpeng Cai, Quan Chen, Xiangyu Zhao, Peng Jiang, Kun Gai\
