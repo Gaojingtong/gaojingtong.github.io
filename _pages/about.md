@@ -100,7 +100,7 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 
 **[C11] [Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark](https://arxiv.org/abs/2412.17374)**\
 Xiaopeng Li, **Jingtong Gao (Co-first author)**, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yejing Wang, Yuhao Wang, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
-Arxiv\
+CIKM'25\
 [Github Link](https://github.com/Xiaopengli1/Scenario-Wise-Rec)
 
 **[Navigate the Unknown: Enhancing LLM Reasoning with Intrinsic Motivation Guided Exploration](https://arxiv.org/abs/2505.17621)**\
