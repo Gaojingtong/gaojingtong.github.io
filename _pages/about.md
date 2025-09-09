@@ -27,6 +27,7 @@ My research interest includes <u>Recommender Systems, Large Language Models, Dee
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 # 🔥 News
+- **2025.09:** &nbsp;🎉🎉 I am very honored to have received the Outstanding Academic Performance Award this year(OAPA-CityU 2025).
 - **2025.08:** &nbsp;🎉🎉 Our multi-scenario recommendation benchmark "[Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark](https://arxiv.org/abs/2412.17374)" has been accepted by CIKM 2025 and is available on [github](https://github.com/Xiaopengli1/Scenario-Wise-Rec). Welcome to use and cite it!
 - **2025.04:** &nbsp;🎉🎉 Our paper "Generative Auto-Bidding with Value-Guided Explorations" has been accepted by SIGIR 2025.
 - **2025.02:** &nbsp;Our survey "[From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval](https://arxiv.org/abs/2502.12448)" is available on Arxiv. Welcome to cite it.
@@ -36,6 +37,7 @@ My research interest includes <u>Recommender Systems, Large Language Models, Dee
 
 # 🏆 Honors and Awards
 ### 2025
+- Outstanding Academic Performance Award (OAPA-CityU 2025)
 - WWW'25 Student Travel Award
 
 ### 2024
@@ -77,7 +79,8 @@ My research interest includes <u>Recommender Systems, Large Language Models, Dee
 
 **[4] Joint Modeling in Deep Recommender Systems**\
 Pengyue Jia, **Jingtong Gao**, Yuhao Wang, Xiaopeng Li, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
-WWW'25, Proceedings of the ACM Web Conference 2025
+WWW'25, Proceedings of the ACM Web Conference 2025\
+[[CITE](bibtex/jia2025joint.html)]
 
 **[3] Joint Modeling in Recommendations: Foundations and Frontiers**\
 Xiangyu Zhao, Yichao Wang, Bo Chen, Pengyue Jia, Yuhao Wang, **Jingtong Gao**, Huifeng Guo, Ruiming Tang\
@@ -110,7 +113,8 @@ Arxiv
 **[C10] [Generative Auto-Bidding with Value-Guided Explorations](https://arxiv.org/abs/2504.14587)**\
 **Jingtong Gao**, Yewen Li, Shuai Mao, Peng Jiang, Nan Jiang, Yejing Wang, Qingpeng Cai, Fei Pan, Peng Jiang, Kun Gai, Bo An, Xiangyu Zhao\
 SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval\
-**1 online launched system**
+**1 online launched system**\
+[[CITE](bibtex/gao2025generative.html)]
 
 **[From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval](https://arxiv.org/abs/2502.12448)**\
 Jian Jia, **Jingtong Gao (Co-first)**, Ben Xue, Junhao Wang, Qingpeng Cai, Quan Chen, Xiangyu Zhao, Peng Jiang, Kun Gai\
@@ -135,7 +139,8 @@ WWW'25, Proceedings of the ACM Web Conference 2025\
 
 **[C6] [GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems](https://arxiv.org/pdf/2406.10244)**\
 Sheng Zhang, Maolin Wang, Wanyu Wang, **Jingtong Gao**, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu\
-KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
+[[CITE](bibtex/zhang2025glint.html)]
 
 **[J3] [Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/pdf/10.1145/3695461)**\
 Qidong Liu, Jiaxi Hu, Yutian Xiao, Xiangyu Zhao, **Jingtong Gao**, Wanyu Wang, Qing Li, Jiliang Tang\
