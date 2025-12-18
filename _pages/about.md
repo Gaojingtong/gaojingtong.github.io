@@ -110,7 +110,7 @@ CIKM'25, Proceedings of the 34th ACM International Conference on Information & K
 **Jingtong Gao**, Ling Pan, Yejing Wang, Rui Zhong, Chi Lu, Qingpeng Cai, Peng Jiang, Xiangyu Zhao\
 Arxiv
 
-**[C10] [Generative Auto-Bidding with Value-Guided Explorations](https://arxiv.org/abs/2504.14587)**\
+**[C10] [Generative Auto-Bidding with Value-Guided Explorations](https://dl.acm.org/doi/pdf/10.1145/3726302.3729987)**\
 **Jingtong Gao**, Yewen Li, Shuai Mao, Peng Jiang, Nan Jiang, Yejing Wang, Qingpeng Cai, Fei Pan, Peng Jiang, Kun Gai, Bo An, Xiangyu Zhao\
 SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 **1 online launched system**\
@@ -147,7 +147,7 @@ Qidong Liu, Jiaxi Hu, Yutian Xiao, Xiangyu Zhao, **Jingtong Gao**, Wanyu Wang, Q
 CSUR, ACM Computing Surveys\
 [[CITE](bibtex/liu2024multimodal.html)]
 
-**[C5] [Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation](https://dl.acm.org/doi/pdf/10.1145/3627673.3679615)**\
+**[C5] [HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations](https://dl.acm.org/doi/pdf/10.1145/3627673.3679615)**\
 **Jingtong Gao**, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang\
 CIKM'24, Proceedings of the 33nd ACM International Conference on Information & Knowledge Management\
 **1 online launched system at Huawei**\
