@@ -27,6 +27,7 @@ My research interest includes <u>Recommender Systems, Large Language Models, Dee
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 # 🔥 News
+- **2025.09:** &nbsp;🎉🎉 Two of our paper has been accepted by WWW'26. Congratulations!
 - **2025.09:** &nbsp;🎉🎉 I am very honored to have received the Outstanding Academic Performance Award this year(OAPA-CityU 2025).
 - **2025.08:** &nbsp;🎉🎉 Our multi-scenario recommendation benchmark "[Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark](https://arxiv.org/abs/2412.17374)" has been accepted by CIKM 2025 and is available on [github](https://github.com/Xiaopengli1/Scenario-Wise-Rec). Welcome to use and cite it!
 - **2025.04:** &nbsp;🎉🎉 Our paper "Generative Auto-Bidding with Value-Guided Explorations" has been accepted by SIGIR 2025.
@@ -100,6 +101,14 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 ***
 
 ## Publications
+
+**[C13] Detecting Miscitation on the Scholarly Web through LLM-Augmented Text-Rich Graph Learning**\
+Huidong Wu, Haojia Xiang, Jingtong Gao, Xiangyu Zhao, Dengsheng Wu and Jianping Li\
+WWW'26, Proceedings of the ACM Web Conference 2026\
+
+**[C12] BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations**\
+Mengyang Ma, Xiaopeng Li, Wanyu Wang, Zhaocheng Du, Jingtong Gao, Pengyue Jia, Yuyang Ye, Yiqi Wang, Yunpeng Weng, Weihong Luo, Xiao Han and Xiangyu Zhao\
+WWW'26, Proceedings of the ACM Web Conference 2026\
 
 **[C11] [Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark](https://arxiv.org/abs/2412.17374)**\
 Xiaopeng Li, **Jingtong Gao (Co-first author)**, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yejing Wang, Yuhao Wang, Xiangyu Zhao, Huifeng Guo, Ruiming Tang\
