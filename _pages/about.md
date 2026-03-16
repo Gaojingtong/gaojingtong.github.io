@@ -18,7 +18,7 @@ redirect_from:
 [//]: # (<span class='anchor' id='about-me'></span>)
 [//]: # (# 💡 About Me [My CV: [English]&#40;pdf/CV-EN-Gao Jingtong-250625-noph.pdf&#41;/[Chinese]&#40;pdf/CV-CN-Gao Jingtong-250625-noph.pdf&#41;])
 # Open to Opportunities (PhD, 2026)
-**My Expected PhD graduation:** Jun–Aug 2026. Actively seeking opportunities in **Recommendation Systems** and **Ads tech** (retrieval/recall, bidding, etc.) worldwide. Feel free to **reach out via [email](jt.g@my.cityu.edu.hk)**.
+**My Expected PhD graduation:** Jun–Aug 2026. Actively seeking opportunities in **Recommendation Systems**, **Ads tech** (retrieval/recall, bidding, etc.) and other **LLM-related positions** worldwide. Feel free to **reach out via [email](jt.g@my.cityu.edu.hk)**.
 
 # 💡 About Me
 I'm currently a third-year **PhD student** of Data Science at the **City University of Hong Kong (CityU)** under the advisory of Prof. Xiangyu Zhao. Prior to CityU, I completed my MSc under the advisory of Prof. Danwei Wang at Nanyang Technological University (NTU) in 2022 and my BEng under the advisory of Prof. Shaopeng Dong at Beihang University (BUAA) in 2021.
