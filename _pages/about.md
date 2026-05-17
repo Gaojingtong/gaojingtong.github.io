@@ -20,7 +20,7 @@ redirect_from:
 <section class="home-profile home-block" id="about-me">
   <h2 class="home-section-title">About Me</h2>
   <p>I'm currently a fourth-year <strong>PhD student</strong> of Data Science at the <strong>City University of Hong Kong (CityU)</strong> under the advisory of Prof. Xiangyu Zhao. Prior to CityU, I completed my MSc under the advisory of Prof. Danwei Wang at Nanyang Technological University (NTU) in 2022 and my BEng under the advisory of Prof. Shaopeng Dong at Beihang University (BUAA) in 2021.</p>
-  <p>My research interest includes <span class="home-tags">Recommender Systems · Large Language Models · Deep Reinforcement Learning · Machine Learning</span>. I have published several papers at the top international AI conferences with <a href="https://scholar.google.com/citations?user=tkis1Q0AAAAJ" target="_self">800+ citations</a>.</p>
+  <p>My research interests include <span class="home-tags">Recommender Systems (RecSys) · Advertising · Large Language Models (LLMs) · Reinforcement Learning (RL) · Deep Learning</span>. I have published several papers at the top international AI conferences with <a href="https://scholar.google.com/citations?user=tkis1Q0AAAAJ" target="_self">800+ citations</a>.</p>
 </section>
 
 <section class="home-opportunities home-block" id="opportunities">
