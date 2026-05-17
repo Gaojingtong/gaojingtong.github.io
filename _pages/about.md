@@ -216,7 +216,7 @@ redirect_from:
         <p class="pub-authors"><strong>Jingtong Gao</strong>, Yewen Li, Shuai Mao, Peng Jiang, Nan Jiang, Yejing Wang, Qingpeng Cai, Fei Pan, Peng Jiang, Kun Gai, Bo An, Xiangyu Zhao</p>
         <p class="pub-venue">SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval</p>
         <div class="pub-badges">
-          <span class="pub-badge pub-badge--deployed">Deployed online</span>
+          <span class="pub-badge pub-badge--deployed pub-badge--kuaishou">Deployed online · Kuaishou</span>
         </div>
         <p class="pub-links"><a href="bibtex/gao2025generative.html">CITE</a></p>
       </div>
