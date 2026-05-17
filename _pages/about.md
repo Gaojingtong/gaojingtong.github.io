@@ -25,7 +25,7 @@ redirect_from:
 
 <section class="home-opportunities home-block" id="opportunities">
   <h2 class="home-section-title">Open to Opportunities</h2>
-  <p class="home-opportunity-lead"><strong>Expected PhD graduation:</strong> October 2026. Actively seeking opportunities in <strong>Recommender Systems</strong>, <strong>Ads tech</strong> (retrieval/recall, bidding, etc.) and other <strong>LLM-related positions</strong> worldwide. Feel free to <strong>reach out via email</strong>.</p>
+  <p class="home-opportunity-lead"><strong>Expected PhD graduation:</strong> October 2026. Actively seeking opportunities in <strong>Recommender Systems</strong>, <strong>Ads tech</strong> and other <strong>LLM-related positions</strong> worldwide. Feel free to <strong>reach out via email</strong>.</p>
 </section>
 
 <section class="home-section home-block home-block--news" id="news">
