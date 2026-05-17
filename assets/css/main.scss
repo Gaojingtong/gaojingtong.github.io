@@ -206,9 +206,20 @@ h1:before, .anchor:before {
   font-family: $sans-serif;
   font-weight: 700;
   color: $darker-gray;
-  margin: 0 0 0.45em;
-  padding-bottom: 0.22em;
+  margin: 0 0 0.35rem;
+  padding-bottom: 0.15rem;
   border-bottom: 2px solid mix($info-color, #fff, 75%);
+}
+
+/* Tighten gap between section heading and first line of content */
+.home-page .home-section-title + *,
+.home-page .home-card-title + * {
+  margin-top: 0;
+}
+
+.home-page .home-section-title + p,
+.home-page .home-card-title + p {
+  margin-bottom: 0.75em;
 }
 
 .news-list {
@@ -357,19 +368,23 @@ h1:before, .anchor:before {
   font-size: $type-size-3;
   font-weight: 700;
   color: $info-color;
-  margin: 0.65em 0 0.45em;
-  padding: 0 0 0.2em;
+  margin: 0.5rem 0 0.3rem;
+  padding: 0 0 0.12rem;
   border: none;
   border-bottom: 1px solid mix($info-color, #fff, 70%);
 
   &:first-of-type {
-    margin-top: 0.15em;
+    margin-top: 0.1rem;
   }
 }
 
+.home-page .pub-subsection-title + .pub-list {
+  margin-top: 0;
+}
+
 .pub-list + .pub-subsection-title--papers {
-  margin-top: 1.65em;
-  padding-top: 0.35em;
+  margin-top: 1.35rem;
+  padding-top: 0.2rem;
 }
 
 .pub-list {
