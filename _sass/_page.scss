@@ -49,7 +49,8 @@
 }
 
 .page__content {
-  #about-me{
+  /* Legacy anchor offset for markdown headings; skip homepage profile block */
+  #about-me:not(.home-profile):not(.home-block) {
     margin-top: -10em;
       &:before { 
         content: ''; 

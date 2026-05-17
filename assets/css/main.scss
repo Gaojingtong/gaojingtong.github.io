@@ -136,7 +136,18 @@ h1:before, .anchor:before {
   }
 
   [id] {
-    scroll-margin-top: 3.5em;
+    scroll-margin-top: 4em;
+  }
+
+  #about-me {
+    margin-top: 0;
+
+    &::before {
+      display: none;
+      content: none;
+      height: 0;
+      margin-top: 0;
+    }
   }
 }
 
@@ -149,6 +160,7 @@ h1:before, .anchor:before {
   background: mix(#fff, $lighter-gray, 35%);
   border: 1px solid $border-color;
   padding: 1.25em 1.5em;
+  margin-top: 0;
 }
 
 .home-opportunities {
@@ -355,6 +367,11 @@ h1:before, .anchor:before {
   }
 }
 
+.pub-list + .pub-subsection-title--papers {
+  margin-top: 2.25em;
+  padding-top: 0.65em;
+}
+
 .pub-list {
   display: flex;
   flex-direction: column;
@@ -447,52 +464,61 @@ h1:before, .anchor:before {
   color: $darker-gray;
 }
 
-.pub-badges {
+.home-page .pub-badges {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.45em;
-  margin: 0.55em 0 0.15em;
+  gap: 0.5em;
+  margin: 0.65em 0 0.2em;
   padding: 0;
 }
 
-.pub-badge {
-  display: inline-flex;
-  align-items: center;
-  font-size: 0.82em;
+.home-page .pub-badge {
+  display: inline-block;
+  font-size: 0.88em;
   font-weight: 700;
-  line-height: 1.35;
-  padding: 0.28em 0.7em;
+  line-height: 1.4;
+  padding: 0.32em 0.75em;
   border-radius: 999px;
   letter-spacing: 0.02em;
   white-space: nowrap;
+  border: 1px solid transparent;
 }
 
-.pub-badge--oral {
-  color: mix(#000, $info-color, 10%);
-  background: mix(#fff, $info-color, 86%);
-  border: 1px solid mix($info-color, #fff, 55%);
-  box-shadow: 0 1px 0 rgba($info-color, 0.12);
+.home-page .pub-badge--oral {
+  color: #1a4a7a;
+  background: #e8f1fb;
+  border-color: #9bb8dc;
 }
 
-.pub-badge--deployed {
-  color: mix(#000, $success-color, 25%);
-  background: mix(#fff, $success-color, 82%);
-  border: 1px solid mix($success-color, #fff, 45%);
-  box-shadow: 0 1px 0 rgba($success-color, 0.15);
+.home-page .pub-badge--deployed {
+  color: #1f5c2e;
+  background: #e6f4ea;
+  border-color: #8fc99a;
 }
 
-.pub-badge--kuaishou {
+.home-page .pub-badge--kuaishou {
   color: #9a3d00;
-  background: linear-gradient(135deg, #fff5eb 0%, #ffe8d4 100%);
-  border-color: #f5a962;
-  box-shadow: 0 1px 0 rgba(#e85d04, 0.12);
+  background: #fff0e3;
+  border-color: #f0a060;
 }
 
-.pub-badge--huawei {
+.home-page .pub-badge--huawei {
   color: #8b0012;
-  background: linear-gradient(135deg, #fff0f2 0%, #ffe0e5 100%);
+  background: #ffecee;
   border-color: #e8929a;
-  box-shadow: 0 1px 0 rgba(#c7000b, 0.1);
+}
+
+/* Combined modifiers: company tint overrides generic deployed green */
+.home-page .pub-badge--deployed.pub-badge--kuaishou {
+  color: #9a3d00;
+  background: #fff0e3;
+  border-color: #f0a060;
+}
+
+.home-page .pub-badge--deployed.pub-badge--huawei {
+  color: #8b0012;
+  background: #ffecee;
+  border-color: #e8929a;
 }
 
 .pub-links {

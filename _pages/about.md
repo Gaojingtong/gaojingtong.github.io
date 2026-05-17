@@ -44,16 +44,8 @@ redirect_from:
       <span class="news-content">🎉🎉 The <a href="https://mp.weixin.qq.com/s/DwKtynzSfsYErgtdWuYOpQ">AML Lab Collaboration Project</a> that I was involved in Ranked No.1 as Kuaishou's "Outstanding Research Collaboration Project"! Congratulations!</span>
     </li>
     <li class="news-item">
-      <span class="news-date">2025.09</span>
+    <span class="news-date">2025.09</span>
       <span class="news-content">🎉🎉 Two of our paper has been accepted by WWW'26. Congratulations!</span>
-    </li>
-    <li class="news-item">
-      <span class="news-date">2025.09</span>
-      <span class="news-content">🎉🎉 I am very honored to have received the Outstanding Academic Performance Award this year (OAPA-CityU 2025).</span>
-    </li>
-    <li class="news-item">
-      <span class="news-date">2025.08</span>
-      <span class="news-content">🎉🎉 Our multi-scenario recommendation benchmark "<a href="https://arxiv.org/abs/2412.17374">Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark</a>" has been accepted by CIKM 2025 and is available on <a href="https://github.com/Xiaopengli1/Scenario-Wise-Rec">github</a>. Welcome to use and cite it!</span>
     </li>
     <li class="news-item">
       <span class="news-date">2025.04</span>
@@ -156,7 +148,7 @@ redirect_from:
 
   </div>
 
-  <h3 class="pub-subsection-title">Conference &amp; Journal Papers</h3>
+  <h3 class="pub-subsection-title pub-subsection-title--papers">Conference and Journal Papers</h3>
   <div class="pub-list">
 
     <article class="pub-item">
@@ -165,9 +157,9 @@ redirect_from:
         <h4 class="pub-title">Generative Auto-Bidding in Large-Scale Auctions via Diffusion Completer-Aligner</h4>
         <p class="pub-authors">Yewen Li, <strong>Jingtong Gao</strong>, Peng Jiang, Ruyi An, Xiangyu Zhao, Bo An, Fei Pan, Qingpeng Cai, Peng Jiang, Kun Gai</p>
         <p class="pub-venue">KDD'26 ADS Track, Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining</p>
-        <p class="pub-badges">
+        <div class="pub-badges">
           <span class="pub-badge pub-badge--deployed pub-badge--kuaishou">Deployed online · Kuaishou</span>
-        </p>
+        </div>
       </div>
     </article>
 
@@ -223,9 +215,9 @@ redirect_from:
         <h4 class="pub-title"><a href="https://dl.acm.org/doi/pdf/10.1145/3726302.3729987">Generative Auto-Bidding with Value-Guided Explorations</a></h4>
         <p class="pub-authors"><strong>Jingtong Gao</strong>, Yewen Li, Shuai Mao, Peng Jiang, Nan Jiang, Yejing Wang, Qingpeng Cai, Fei Pan, Peng Jiang, Kun Gai, Bo An, Xiangyu Zhao</p>
         <p class="pub-venue">SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval</p>
-        <p class="pub-badges">
+        <div class="pub-badges">
           <span class="pub-badge pub-badge--deployed">Deployed online</span>
-        </p>
+        </div>
         <p class="pub-links"><a href="bibtex/gao2025generative.html">CITE</a></p>
       </div>
     </article>
@@ -245,10 +237,10 @@ redirect_from:
         <h4 class="pub-title"><a href="https://dl.acm.org/doi/pdf/10.1145/3701716.3715253">SampleLLM: Optimizing Tabular Data Synthesis in Recommendations</a></h4>
         <p class="pub-authors"><strong>Jingtong Gao</strong>, Zhaocheng Du, Xiaopeng Li, Xiangyu Zhao, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang</p>
         <p class="pub-venue">WWW'25, Proceedings of the ACM Web Conference 2025</p>
-        <p class="pub-badges">
+        <div class="pub-badges">
           <span class="pub-badge pub-badge--oral">Oral Presentation</span>
           <span class="pub-badge pub-badge--deployed pub-badge--huawei">Deployed online · Huawei</span>
-        </p>
+        </div>
         <p class="pub-links"><a href="bibtex/gao2025samplellm.html">CITE</a></p>
       </div>
     </article>
@@ -259,9 +251,9 @@ redirect_from:
         <h4 class="pub-title"><a href="https://dl.acm.org/doi/pdf/10.1145/3696410.3714922">LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations</a></h4>
         <p class="pub-authors"><strong>Jingtong Gao</strong>, Bo Chen, Xiangyu Zhao, Weiwen Liu, Xiangyang Li, Yichao Wang, Wanyu Wang, Huifeng Guo, Ruiming Tang</p>
         <p class="pub-venue">WWW'25, Proceedings of the ACM Web Conference 2025</p>
-        <p class="pub-badges">
+        <div class="pub-badges">
           <span class="pub-badge pub-badge--oral">Oral Presentation</span>
-        </p>
+        </div>
         <p class="pub-links"><a href="bibtex/gao2025llm4rerank.html">CITE</a></p>
       </div>
     </article>
@@ -302,9 +294,9 @@ redirect_from:
         <h4 class="pub-title"><a href="https://dl.acm.org/doi/pdf/10.1145/3627673.3679615">HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations</a></h4>
         <p class="pub-authors"><strong>Jingtong Gao</strong>, Bo Chen, Menghui Zhu, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, Ruiming Tang</p>
         <p class="pub-venue">CIKM'24, Proceedings of the 33nd ACM International Conference on Information &amp; Knowledge Management</p>
-        <p class="pub-badges">
+        <div class="pub-badges">
           <span class="pub-badge pub-badge--deployed pub-badge--huawei">Deployed online · Huawei</span>
-        </p>
+        </div>
         <p class="pub-links"><a href="bibtex/gao2024hierrec.html">CITE</a></p>
       </div>
     </article>
