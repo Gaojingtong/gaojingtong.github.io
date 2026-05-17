@@ -314,11 +314,17 @@ h1:before, .anchor:before {
   }
 }
 
-.award-year {
+/* Unified sub-labels in Honors / Experience cards */
+.home-card .award-year,
+.home-card .exp-period {
+  display: block;
   font-size: 1em;
   font-weight: 700;
+  font-family: $sans-serif;
   color: $info-color;
-  margin: 0 0 0.35em;
+  margin: 0 0 0.3em;
+  line-height: 1.4;
+  letter-spacing: 0.01em;
   text-transform: none;
 }
 
@@ -345,15 +351,6 @@ h1:before, .anchor:before {
       padding-top: 0;
     }
   }
-}
-
-.exp-period {
-  font-size: 0.9em;
-  font-weight: 700;
-  font-family: $monospace;
-  color: $info-color;
-  text-transform: uppercase;
-  letter-spacing: 0.02em;
 }
 
 .exp-role {
@@ -435,9 +432,12 @@ h1:before, .anchor:before {
 .pub-body {
   flex: 1;
   min-width: 0;
+  font-size: 1em;
+  line-height: 1.5;
 
   p {
     margin: 0 0 0.35em;
+    font-size: inherit;
 
     &:last-child {
       margin-bottom: 0;
@@ -445,12 +445,12 @@ h1:before, .anchor:before {
   }
 }
 
-.pub-title {
-  font-size: $type-size-4;
+.home-page .pub-body .pub-title {
+  font-size: inherit;
   font-weight: 700;
-  line-height: 1.35;
+  line-height: 1.45;
   margin: 0 0 0.35em;
-  font-family: $sans-serif;
+  font-family: inherit;
 
   a {
     color: $darker-gray;
@@ -462,20 +462,20 @@ h1:before, .anchor:before {
 }
 
 .pub-authors {
-  font-size: 0.95em;
+  font-size: inherit;
   color: $text-color;
-  line-height: 1.5;
+  line-height: inherit;
 }
 
 .pub-venue {
-  font-size: 0.9em;
+  font-size: inherit;
   color: $gray;
   font-style: italic;
-  line-height: 1.45;
+  line-height: inherit;
 }
 
 .pub-meta {
-  font-size: 0.9em;
+  font-size: inherit;
   color: $darker-gray;
 }
 
@@ -538,7 +538,7 @@ h1:before, .anchor:before {
 
 .pub-links {
   margin-top: 0.35em !important;
-  font-size: 0.85em;
+  font-size: inherit;
 
   a {
     display: inline-block;
@@ -562,7 +562,8 @@ h1:before, .anchor:before {
 
 /* Homepage: use slightly larger body text than theme default */
 .page__content .home-page {
-  p, li, .news-content, .pub-authors {
+  p, li, .news-content,
+  .pub-title, .pub-authors, .pub-venue, .pub-meta {
     font-size: inherit;
   }
 }
