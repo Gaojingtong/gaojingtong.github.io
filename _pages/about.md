@@ -30,14 +30,13 @@ My research interest includes <u>Recommender Systems, Large Language Models, Dee
 [//]: # (<a href='https://scholar.google.com/citations?user=tkis1Q0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 # 🔥 News
+- **2026.05:** &nbsp;🎉🎉 Our paper "Hierarchical Residual Policy Optimization for Generative Recommendations" has been accepted by KDD 2026.
 - **2026.03:** &nbsp;🎉🎉 The [AML Lab Collaboration Project](https://mp.weixin.qq.com/s/DwKtynzSfsYErgtdWuYOpQ) that I was involved in Ranked No.1 as Kuaishou’s "Outstanding Research Collaboration Project"! Congratulations!
 - **2025.09:** &nbsp;🎉🎉 Two of our paper has been accepted by WWW'26. Congratulations!
 - **2025.09:** &nbsp;🎉🎉 I am very honored to have received the Outstanding Academic Performance Award this year(OAPA-CityU 2025).
 - **2025.08:** &nbsp;🎉🎉 Our multi-scenario recommendation benchmark "[Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark](https://arxiv.org/abs/2412.17374)" has been accepted by CIKM 2025 and is available on [github](https://github.com/Xiaopengli1/Scenario-Wise-Rec). Welcome to use and cite it!
 - **2025.04:** &nbsp;🎉🎉 Our paper "Generative Auto-Bidding with Value-Guided Explorations" has been accepted by SIGIR 2025.
 - **2025.02:** &nbsp;Our survey "[From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval](https://arxiv.org/abs/2502.12448)" is available on Arxiv. Welcome to cite it.
-- **2025.01:** &nbsp;🎉🎉 Our paper "[SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)" and "[GAS: Generative Auto-bidding with Post-training Search](https://arxiv.org/abs/2412.17018)" has been accepted by WWW 2025 Industry Track.
-- **2025.01:** &nbsp;🎉🎉 Our paper "[LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations](https://arxiv.org/abs/2406.12433)" has been accepted by WWW 2025.
 - **2024.12:** &nbsp;🎉🎉 We achieved **1st place** in the "[\[NeurIPS\] 2024 AIGB Track: Learning Auto-Bidding Agent with Generative Models](https://tianchi.aliyun.com/competition/entrance/532236/)" competition hosted by Alimama over thousands of teams!
 
 # 🏆 Honors and Awards
@@ -105,6 +104,10 @@ WWW'23, Companion Proceedings of the Web Conference 2023\
 ***
 
 ## Publications
+
+**[C14] Hierarchical Residual Policy Optimization for Generative Recommendations**\
+Kaifeng Guo, Yiming Yang, **Jingtong Gao**, Guolei Zeng, Fukang Yang, Yukang Liang, Peng Jiang, Qingpeng Cai, Xiangyu Zhao\
+KDD'26, Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 **[C13] Detecting Miscitation on the Scholarly Web through LLM-Augmented Text-Rich Graph Learning**\
 Huidong Wu, Haojia Xiang, Jingtong Gao, Xiangyu Zhao, Dengsheng Wu and Jianping Li\
