@@ -169,6 +169,9 @@ redirect_from:
         <h4 class="pub-title">Hierarchical Residual Policy Optimization for Generative Recommendations</h4>
         <p class="pub-authors">Kaifeng Guo, Yiming Yang, <strong>Jingtong Gao</strong>, Guolei Zeng, Fukang Yang, Yukang Liang, Peng Jiang, Qingpeng Cai, Xiangyu Zhao</p>
         <p class="pub-venue">KDD'26, Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining</p>
+        <div class="pub-badges">
+          <span class="pub-badge pub-badge--deployed pub-badge--kuaishou">Deployed online · Kuaishou</span>
+        </div>
       </div>
     </article>
 
