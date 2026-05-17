@@ -17,17 +17,24 @@ redirect_from:
 
 <div class="home-page" markdown="0">
 
-<section class="home-hero">
-  <p class="home-hero-badge">Open to Opportunities · PhD 2026</p>
-  <p class="home-hero-lead"><strong>Expected PhD graduation:</strong> October 2026. Actively seeking opportunities in <strong>Recommender Systems</strong>, <strong>Ads tech</strong> (retrieval/recall, bidding, etc.) and other <strong>LLM-related positions</strong> worldwide. Feel free to <strong>reach out via email</strong>.</p>
-  <div class="home-hero-divider"></div>
+<section class="home-profile home-block" id="about-me">
+  <h2 class="home-section-title">About Me</h2>
   <p>I'm currently a fourth-year <strong>PhD student</strong> of Data Science at the <strong>City University of Hong Kong (CityU)</strong> under the advisory of Prof. Xiangyu Zhao. Prior to CityU, I completed my MSc under the advisory of Prof. Danwei Wang at Nanyang Technological University (NTU) in 2022 and my BEng under the advisory of Prof. Shaopeng Dong at Beihang University (BUAA) in 2021.</p>
-  <p>My research interest includes <span class="home-tags">Recommender Systems · Large Language Models · Deep Reinforcement Learning · Machine Learning</span>. I have published several papers at the top international AI conferences with <a href="https://scholar.google.com/citations?user=tkis1Q0AAAAJ">800+ citations</a>.</p>
+  <p>My research interest includes <span class="home-tags">Recommender Systems · Large Language Models · Deep Reinforcement Learning · Machine Learning</span>. I have published several papers at the top international AI conferences with <a href="https://scholar.google.com/citations?user=tkis1Q0AAAAJ" target="_self">800+ citations</a>.</p>
 </section>
 
-<section class="home-section" id="news">
+<section class="home-opportunities home-block" id="opportunities">
+  <h2 class="home-section-title">Open to Opportunities</h2>
+  <p class="home-opportunity-lead"><strong>Expected PhD graduation:</strong> October 2026. Actively seeking opportunities in <strong>Recommender Systems</strong>, <strong>Ads tech</strong> (retrieval/recall, bidding, etc.) and other <strong>LLM-related positions</strong> worldwide. Feel free to <strong>reach out via email</strong>.</p>
+</section>
+
+<section class="home-section home-block home-block--news" id="news">
   <h2 class="home-section-title">News</h2>
   <ul class="news-list">
+    <li class="news-item">
+      <span class="news-date">2026.05</span>
+      <span class="news-content">🎉🎉 Our paper "Generative Auto-Bidding in Large-Scale Auctions via Diffusion Completer-Aligner" has been accepted by KDD 2026 ADS Track.</span>
+    </li>
     <li class="news-item">
       <span class="news-date">2026.05</span>
       <span class="news-content">🎉🎉 Our paper "Hierarchical Residual Policy Optimization for Generative Recommendations" has been accepted by KDD 2026.</span>
@@ -63,7 +70,7 @@ redirect_from:
   </ul>
 </section>
 
-<div class="home-card-grid">
+<div class="home-card-grid home-block">
   <section class="home-card" id="honors">
     <h2 class="home-card-title">Honors and Awards</h2>
     <div class="award-group">
@@ -101,7 +108,7 @@ redirect_from:
   </section>
 </div>
 
-<section class="home-section pub-section" id="publications">
+<section class="home-section pub-section home-block home-block--pubs" id="publications">
   <h2 class="home-section-title">Publications</h2>
 
   <h3 class="pub-subsection-title">Tutorials</h3>
@@ -151,6 +158,15 @@ redirect_from:
 
   <h3 class="pub-subsection-title">Conference &amp; Journal Papers</h3>
   <div class="pub-list">
+
+    <article class="pub-item">
+      <span class="pub-id">C15</span>
+      <div class="pub-body">
+        <h4 class="pub-title">Generative Auto-Bidding in Large-Scale Auctions via Diffusion Completer-Aligner</h4>
+        <p class="pub-authors">Yewen Li, <strong>Jingtong Gao</strong>, Peng Jiang, Ruyi An, Xiangyu Zhao, Bo An, Fei Pan, Qingpeng Cai, Peng Jiang, Kun Gai</p>
+        <p class="pub-venue">KDD'26 ADS Track, Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining</p>
+      </div>
+    </article>
 
     <article class="pub-item">
       <span class="pub-id">C14</span>
